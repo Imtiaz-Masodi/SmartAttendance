@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="posts">
+        <item>SELECT YOUR POST</item>
+        <item>HOD</item>
+        <item>Assistant Lecturer</item>
+    </string-array>
+</resources>
